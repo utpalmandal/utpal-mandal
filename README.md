@@ -1,5 +1,5 @@
 # utpal-mandal
-Data Analyst
+
 <h1 align="center">Hi 👋, I'm Utpal Mandal</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
